@@ -1,0 +1,10 @@
+Cython
+pandas==2.1.4
+scikit_learn==1.5.2
+scikit-learn --only-binary :all:
+streamlit==1.30.0
+matplotlib==3.8.0
+lifelines==0.29.0
+xgboost==2.0.3
+
+
